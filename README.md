@@ -1,6 +1,7 @@
 # TechDay Jaguariúna
 
 ## Programação (4h)
+- [Checkin](https://forms.gle/5GBVfvFx11GfvKxp8)
 ### 1. Remote
 - O que é e sua importância para a unidade;
 - Quem são os Remoter’s;

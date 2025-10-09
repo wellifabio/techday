@@ -10,7 +10,9 @@
 - ![Tela de convite de alunos](../screenshots/print07.png)
 ## Como criar uma atividade
 - 1 Acesse a turma desejada e clique na aba **Atividades**.
-- ![Tela de atividades da turma](../screenshots/print08.png)
 - 2 Clique no botão **Criar** e selecione o tipo de atividade que deseja criar.
-- ![Tela de criação de atividade](../screenshots/print09.png)
+- ![Tela de atividades da turma](../screenshots/print08.png)
 - 3 Preencha as informações da atividade e clique em **Criar**.
+- ![Tela de criação de atividade](../screenshots/print09.png)
+
+## [Adicionar outros professores](./add_profs.md)
