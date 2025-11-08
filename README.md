@@ -2,7 +2,7 @@
 
 ## Programação (4h)
 - [Checkin](https://forms.gle/5GBVfvFx11GfvKxp8)
-- [Links Juan](./link-juan.md)
+- [Links Juan](./links-juan.md)
 ### 1. Remote
 - O que é e sua importância para a unidade;
 - Quem são os Remoter’s;
